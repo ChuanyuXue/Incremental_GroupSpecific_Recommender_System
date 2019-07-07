@@ -1,21 +1,22 @@
 ### 统计实验结果
-104/107/7450	Origin_SVD	Missingness	Bipartite_Network	Project_Network
-Movielens_All	0.9473	0.9393	0.924	0.9311
-Movielens_ucold	1.3128	1.0703	0.9933	0.9901
-Movielens_icold	1.1045	1.3467	0.872	1.0258
-Movielens_uncold	0.9251	0.9166	0.9105	0.9155
-				
-190/8/6145				
-Netflix_All	1.1964	0.9721	0.9555	0.9573
-Netflix_ucold	1.4526	1.0687	1.1135	1.1457
-Netflix_icold	0.9854	1.1062	0.8631	0.8607
-Netflix_uncold	1.1682	0.9529	0.9347	0.9353
-				
-438/602/7566				
-Yahoo_All	1.8317	1.4823	1.4328	1.4352
-Yahoo_ucold	1.8175	1.4624	1.4781	1.4822
-Yahoo_icold	1.7697	1.4175	1.5299	1.3975
-Yahoo_uncold	1.7072	1.3842	1.3191	1.3331
+
+	104/107/7450	Origin_SVD	Missingness	Bipartite_Network	Project_Network
+	Movielens_All	0.9473	0.9393	0.924	0.9311
+	Movielens_ucold	1.3128	1.0703	0.9933	0.9901
+	Movielens_icold	1.1045	1.3467	0.872	1.0258
+	Movielens_uncold	0.9251	0.9166	0.9105	0.9155
+
+	190/8/6145				
+	Netflix_All	1.1964	0.9721	0.9555	0.9573
+	Netflix_ucold	1.4526	1.0687	1.1135	1.1457
+	Netflix_icold	0.9854	1.1062	0.8631	0.8607
+	Netflix_uncold	1.1682	0.9529	0.9347	0.9353
+
+	438/602/7566				
+	Yahoo_All	1.8317	1.4823	1.4328	1.4352
+	Yahoo_ucold	1.8175	1.4624	1.4781	1.4822
+	Yahoo_icold	1.7697	1.4175	1.5299	1.3975
+	Yahoo_uncold	1.7072	1.3842	1.3191	1.3331
 
 
                      01            02             03             04           05             06               07    
