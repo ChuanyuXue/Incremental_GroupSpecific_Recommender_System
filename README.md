@@ -1,5 +1,5 @@
 
-# An Inremental Framework for Collaborative Filtering ![exp](http://badges.github.io/stability-badges/dist/experimental.svg)
+# An Incremental Group-Specific Framework based on Community Detection ![exp](http://badges.github.io/stability-badges/dist/experimental.svg)
 ## Introduction
 This is the project corresponding to the paper "Incremental Community Detection and
 Group-Specific Model for Cold-Start Recommendation", the results and experiments are 
