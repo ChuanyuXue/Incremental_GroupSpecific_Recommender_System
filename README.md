@@ -6,6 +6,9 @@ Group-Specific Model for Cold-Start Recommendation", the results and experiments
 applied on computer with an Intel E5-2603 CPU. It is noticeable that the bipartite community detection
 initialization method is run by an C++ application.
 
+**If you have any questions, please contact me by email: cs_xcy@126.com
+Besides, I am looking for a PhD position in 2020 fall. I would be really appreciated if you could provide or recommend any opportunities.**
+
 ## Environment
  |Package   |Version   |
 | ------------ | ------------ |
