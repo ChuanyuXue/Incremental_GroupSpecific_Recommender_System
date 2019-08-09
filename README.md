@@ -19,16 +19,11 @@ If you have any questions, please contact me by email: cs_xcy@126.com
 |[biLouvain](https://github.com/paolapesantez/biLouvain)|-|
 
 ## Usage
-We provide a python script to run all experiments at once.
+We provide a python script to run a demo experiment.
 
     
-    python script/test.py
+    python script/demo.py
     
-Or you can run them one by one
-
-    python script/mov_mis.py
-    python script/mov_bipar.py
-    ...
     
 If you want to test on your own dataset, best to make sure the ID of users and items continuous and starts from 1. A good example of usage can be found in the any files located in scripts folder.
     
